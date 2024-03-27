@@ -22,9 +22,9 @@ reveal .initialize{
 
 // Our colors
 $links: #325d88;
-$text: #3e3f3a;
-$text2: black;
-$text3: #00688B;
+$text: white;
+$text2: #181818;
+$text3: #1997c2;
 
 // fonts
 $font-family-sans-serif: 'Jost', sans-serif !default;
@@ -32,8 +32,8 @@ $font-family-serif: 'Zilla Slab', serif !default;
 $font-family-sans-serif: 'Raleway', sans-serif !default;
 
 // colors
-$body-bg: white !default;
-$body-color: $text2 !default;
+$body-bg: black !default;
+$body-color: $text !default;
 $link-color: $links !default;
 
 // headings
